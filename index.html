@@ -7,19 +7,8 @@
 </head>
 
 <body>
-  <button type="button" id="button">run Python</button>
+  <button type="button" id="button">hello</button>
 
-  <py-script>
-    from js import document
-    from pyodide import create_proxy
-
-    def runPython():
-      print("yippie")
-
-    function_proxy = create_proxy(runPython)
-
-    document.getElementById("button").addEventListener("click", function_proxy)
-  </py-script>
 </body>
 
 

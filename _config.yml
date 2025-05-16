@@ -1,2 +1,4 @@
 name: Kainham
 theme: minima
+
+markdown: kramdown

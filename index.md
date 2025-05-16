@@ -1,5 +1,5 @@
 ---
-title: "Kainham"
+title: "Beginner's Guide to Kainham"
 output: html_document
 ---
 
